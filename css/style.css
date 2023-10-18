@@ -329,6 +329,9 @@ footer{
 
 .ut-3{
     padding: 2rem;
+    color: #CCC8AA;
+    
+    background-color: grey;
     display: flex;
     flex-direction: column;
     text-align: center;
