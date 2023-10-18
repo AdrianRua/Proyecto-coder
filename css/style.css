@@ -305,3 +305,36 @@ footer{
     align-items: center;
     padding: 1rem;
 }
+
+
+
+/*----Ultimate Team----*/
+
+
+.ultimate-team{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+}
+
+.ut-2{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 2rem;
+}
+
+.ut-3{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+
+
