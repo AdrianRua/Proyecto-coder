@@ -489,6 +489,21 @@ footer{
     gap: 2rem;
 }
 
+@media(min-width: 768px){
+    .estadios{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column: auto;
+    }
+
+    .jugadores{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column: auto;
+    }
+
+}
+
 
 /*----Caracteristicas----*/
 /*----Seccion 1----*/
