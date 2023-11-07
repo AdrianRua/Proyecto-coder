@@ -1,0 +1,26 @@
+footer{
+    background-color: #CCC8AA;
+}
+
+.footer-contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.footer-siguenos{
+    font-size: 1.2rem;
+}
+
+.footer-redes a{
+    color: black;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+.footer-parrafo{
+    align-items: center;
+    padding: 1rem;
+}
