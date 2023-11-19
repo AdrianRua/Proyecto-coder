@@ -26,3 +26,11 @@ iframe{
 body{
     background-color: #F1EFEF;
 }
+
+@mixin flex-col-acenter-g-p{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+}

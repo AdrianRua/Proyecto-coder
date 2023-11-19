@@ -48,11 +48,7 @@
 
 
 .ut2-contenedor{
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    padding: 1rem;
+    @include flex-col-acenter-g-p;
 }
 
 
